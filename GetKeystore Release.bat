@@ -1,0 +1,1 @@
+keytool -genkey -v -keystore D:\Multiverse_Projects\Flutter\Projects\key.jks -keyalg RSA -keysize 2048 -validity 10000 -alias key

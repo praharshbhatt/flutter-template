@@ -1,0 +1,1 @@
+keytool -list -v -keystore "D:\Multiverse_Projects\Android\.android\debug.keystore" -alias androiddebugkey -storepass android -keypass android
